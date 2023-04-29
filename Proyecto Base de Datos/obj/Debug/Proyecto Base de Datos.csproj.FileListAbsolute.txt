@@ -1,0 +1,30 @@
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\bin\Debug\Proyecto Base de Datos.exe.config
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\bin\Debug\Proyecto Base de Datos.exe
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\bin\Debug\Proyecto Base de Datos.pdb
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.csproj.AssemblyReference.cache
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto_Base_de_Datos.Form1.resources
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto_Base_de_Datos.Properties.Resources.resources
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.csproj.GenerateResource.cache
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.csproj.CoreCompileInputs.cache
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.csproj.CopyComplete
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.exe
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.pdb
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto_Base_de_Datos.Formularios.Gestion_de_Recibos.resources
+C:\Users\yyyah\OneDrive\Escritorio\Proyecto Base de Datos\Proyecto Base de Datos\obj\Debug\Proyecto_Base_de_Datos.Formularios.Home.resources
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\bin\Debug\Proyecto Base de Datos.exe.config
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\bin\Debug\Proyecto Base de Datos.exe
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\bin\Debug\Proyecto Base de Datos.pdb
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.csproj.AssemblyReference.cache
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto_Base_de_Datos.Form1.resources
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto_Base_de_Datos.Formularios.Gestion_de_Recibos.resources
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto_Base_de_Datos.Formularios.Home.resources
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto_Base_de_Datos.Properties.Resources.resources
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.csproj.GenerateResource.cache
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.csproj.CoreCompileInputs.cache
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.csproj.CopyComplete
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.exe
+C:\Users\luisp\Documents\GitHub\Proyecto-Base-de-Datos1\Proyecto Base de Datos\obj\Debug\Proyecto Base de Datos.pdb
